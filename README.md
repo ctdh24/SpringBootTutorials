@@ -1,1 +1,2 @@
-# SpringBootTutorials
+# SpringTutorials
+Exvercises to explore spring
